@@ -1,0 +1,4 @@
+Source_Num,Source,Exoplanets,Type,Link
+1,NASA,4324,Total # of Exoplanets in the Database,https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=PS&constraint=default_flag=1
+2,Wikipedia,29,Potentially Habitable (Optimistic),https://en.wikipedia.org/wiki/List_of_potentially_habitable_exoplanets
+3,Wikipedia,19,Potentially Habitable (Conservative),https://en.wikipedia.org/wiki/List_of_potentially_habitable_exoplanets
